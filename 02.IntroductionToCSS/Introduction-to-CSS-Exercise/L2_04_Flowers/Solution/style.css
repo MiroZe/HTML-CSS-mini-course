@@ -1,0 +1,141 @@
+body {
+    font-family: Open Sans, sans-serif;
+    
+}
+
+nav {
+    padding:0,20px;
+    text-align: center;
+}
+nav a{
+    color: rgb(214,116,114);
+    text-decoration: none;
+}
+
+li{
+    display: inline-block;
+    width: 13%;
+}
+#lastLi {
+    width: 65px;
+}
+header section{
+    background:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,1));
+        background: url(../Requirements-and-Resources/Images/header-flower.png);
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+    padding:0px;
+    background-size: cover;
+    
+    background-position: center;
+    
+}
+section h1{
+    text-align: center;
+    font-size: 25px;
+    padding-top: 175px;
+    border-bottom: 2px solid pink;
+    border-width: thin;
+    display: inline-block;
+    width: 900px;
+}
+section.first p {
+    display: block;
+    margin: 12px 15px 0 130px;
+    width: 500px;;
+    padding-left: 283px;
+}
+main section div button{
+    background-color: white;
+    color :rgb(214,116,114);
+    border:none;
+    padding:15px;
+    font-size: 16px;
+    border-radius: 5%;
+    display: inline-block;
+    margin-left: 563px;
+    margin-top: 31px
+    
+    
+}
+.first {
+    background-color: rgb(214,116,114);
+    padding-top: 0;
+    margin-top:0;
+    padding-bottom: 45px
+}
+.first h3 {
+    text-align: center;
+    font-family: Open Sans, sans-serif;
+    font-size: 16px;
+    color: white;
+    margin: 0px;
+    padding: 38px;
+    border-bottom: 2px solid white;
+    border-width: thin;
+    display: inline-block;
+    width: 1193px;
+
+}
+.first p {
+    display: inline-block;
+    text-align: center;
+    margin: 12px 213px 0 130px;
+    padding-left: 0;
+    font-family: Open Sans, sans-serif;
+    color: white;
+    margin-left: 411px;
+    padding-right: 82px;
+    margin-bottom: 50px;
+}
+.first div {
+    display: inline-block;
+    width: 98%;
+}
+.second {
+    display: inline-block;
+    margin-right: 25px;
+
+}
+.second img {
+    display: inline-block;
+    max-width: 90px;
+    height: auto;
+
+}
+.second h2{
+    text-align: center;
+}
+section.second > ul > li {
+    
+    display: inline-block;
+    padding-right: 10%;
+    margin-left: 102px;
+    text-align: center;
+}
+.second h3 {
+    display: inline-block;
+    padding-right: 30px;
+    font-family: Open Sans, sans-serif;
+}
+.second p {
+    display: inline-block;
+}
+.second ul li:nth-child(2) {
+    padding-top:10px;
+}
+body > main > section.second > ul > li >img:nth-child(3) {
+    margin-top:50px;
+}
+footer {
+
+    text-align: center;
+    background: rgb(214,116,114);
+    font-family: Open Sans, sans-serif;
+    
+}
+footer p{
+    color : white;
+    font-size: 14px;
+}

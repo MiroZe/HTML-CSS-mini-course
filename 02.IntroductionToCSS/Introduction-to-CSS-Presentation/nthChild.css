@@ -1,0 +1,18 @@
+tr:nth-child(2n) {
+    background: #95313b;
+    color: #fff;
+  }
+  tr:nth-child(2n+1) {
+    background: #1da53f;
+    color: #fff;
+  }
+  
+  p:nth-of-type(2) {
+    background: #95313b;
+    color: #fff;
+  }
+  p:first-of-type {
+    background: #5e10db;
+    color: #fff;
+  }
+  

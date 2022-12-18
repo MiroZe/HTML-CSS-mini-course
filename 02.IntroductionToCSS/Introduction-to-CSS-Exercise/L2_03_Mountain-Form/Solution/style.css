@@ -1,0 +1,29 @@
+body{
+    font-family: Lato, sans-serif;
+    margin:50px;
+
+}
+section {
+    display: inline-block;
+    width: 500px;
+}
+
+footer {
+    margin-top: 400px;
+    
+}
+h1{
+    text-align: center;
+    color: white;
+}
+
+    
+
+
+#right{
+    border: solid;
+    
+}
+div{
+    display: inline-block
+}
